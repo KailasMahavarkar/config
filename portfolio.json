@@ -1,69 +1,63 @@
 {
-  projects: [
-	{
-		title: "Pastekey.io",
-		info: `Pastekey.io is a web application that allows you to paste text and save it to a database. All private paste are encrypted by AES-256 encryption, It doesn't store your password or even your password hash in database.`,
-		website: "https://pastekey.io",
-		github: "",
-		apidoc: "",
-		imageurl: {
-			light: "https://i.imgur.com/FYjmYoy.jpeg",
-			dark: "https://i.imgur.com/EChbKi1.jpeg",
+	"projects": [{
+		"title": "Pastekey.io",
+		"info": "Pastekey.io is a web application that allows you to paste text and save it to a database. All private paste are encrypted by AES-256 encryption, It doesn't store your password or even your password hash in database.",
+		"website": "https://pastekey.io",
+		"github": "",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://i.imgur.com/FYjmYoy.jpeg",
+			"dark": "https://i.imgur.com/EChbKi1.jpeg"
 		},
-		maintenance: false,
-		techstack: ["NextJS", "Redis", "MongoDB", "AWS", "CI/CD", "JWT"],
-	},
-	{
-		title: "DynoPictures.com",
-		info: "Dynopictures.com is portfolio website made for Rahul Dyno an business enthusiast, it showcases his work and projects.",
-		website: "https://dynopictures.com",
-		github: "http://github.com/KailasMahavarkar/",
-		apidoc: "",
-		imageurl: {
-			light: "https://i.imgur.com/HPjiNIk.jpeg",
-			dark: "https://i.imgur.com/HPjiNIk.jpeg",
+		"maintenance": false,
+		"techstack": ["NextJS", "Redis", "MongoDB", "AWS", "CI/CD", "JWT"]
+	}, {
+		"title": "DynoPictures.com",
+		"info": "Dynopictures.com is portfolio website made for Rahul Dyno an business enthusiast, it showcases his work and projects.",
+		"website": "https://dynopictures.com",
+		"github": "http://github.com/KailasMahavarkar/",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://i.imgur.com/HPjiNIk.jpeg",
+			"dark": "https://i.imgur.com/HPjiNIk.jpeg"
 		},
-		techstack: ["NextJS", "ReactJS"],
-		maintenance: false,
-	},
-	{
-		title: "Anandpal",
-		info: "Ecommerce + Blogging App made for motivational speaker & doctor Mr Anand & Mrs Pallavi",
-		website: "https://orkait-anandpal.netlify.com",
-		github: "http://github.com/KailasMahavarkar/",
-		apidoc: "",
-		imageurl: {
-			light: "https://i.imgur.com/vK8kli2.jpeg",
-			dark: "https://i.imgur.com/vK8kli2.jpeg",
+		"techstack": ["NextJS", "ReactJS"],
+		"maintenance": false
+	}, {
+		"title": "Anandpal",
+		"info": "Ecommerce + Blogging App made for motivational speaker & doctor Mr Anand & Mrs Pallavi",
+		"website": "https://orkait-anandpal.netlify.com",
+		"github": "http://github.com/KailasMahavarkar/",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://i.imgur.com/vK8kli2.jpeg",
+			"dark": "https://i.imgur.com/vK8kli2.jpeg"
 		},
-		maintenance: false,
-		techstack: ["EditorJS CMS", "ReactJS", "Redis", "MongoDB", "CI/CD"],
-	},
-	{
-		title: "Resume Score Analyzer",
-		info: "Scan any IT resume and rank it (KNN + SVM + XGBOOST)",
-		website: "https://orka-resumescanner.netlify.com",
-		github: "https://github.com/KailasMahavarkar/ResumeScannerML",
-		apidoc: "",
-		imageurl: {
-			light: "https://i.imgur.com/76XZ2tu.jpeg",
-			dark: "https://i.imgur.com/76XZ2tu.jpeg",
+		"maintenance": false,
+		"techstack": ["EditorJS CMS", "ReactJS", "Redis", "MongoDB", "CI/CD"]
+	}, {
+		"title": "Resume Score Analyzer",
+		"info": "Scan any IT resume and rank it (KNN + SVM + XGBOOST)",
+		"website": "https://orka-resumescanner.netlify.com",
+		"github": "https://github.com/KailasMahavarkar/ResumeScannerML",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://i.imgur.com/76XZ2tu.jpeg",
+			"dark": "https://i.imgur.com/76XZ2tu.jpeg"
 		},
-		maintenance: false,
-		techstack: ["Machine Learning"],
-	},
-	{
-		title: "BuildYourPC",
-		info: "Build your own PC is a webapp aims to reduce the time spent on building a PC, it provides you with a list of components and you can build your own PC",
-		website: "https://buildyourpc.netlify.com",
-		github: "https://github.com/KailasMahavarkar/BuildYourPC",
-		apidoc: "",
-		imageurl: {
-			light: "https://i.imgur.com/76XZ2tu.jpeg",
-			dark: "https://i.imgur.com/76XZ2tu.jpeg",
+		"maintenance": false,
+		"techstack": ["Machine Learning"]
+	}, {
+		"title": "BuildYourPC",
+		"info": "Build your own PC is a webapp aims to reduce the time spent on building a PC, it provides you with a list of components and you can build your own PC",
+		"website": "https://buildyourpc.netlify.com",
+		"github": "https://github.com/KailasMahavarkar/BuildYourPC",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://i.imgur.com/76XZ2tu.jpeg",
+			"dark": "https://i.imgur.com/76XZ2tu.jpeg"
 		},
-		maintenance: false,
-		techstack: ["Django", "SQL"],
-	},
-]
+		"maintenance": false,
+		"techstack": ["Django", "SQL"]
+	}]
 }
