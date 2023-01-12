@@ -33,7 +33,7 @@
 			"light": "https://i.imgur.com/vK8kli2.jpeg",
 			"dark": "https://i.imgur.com/vK8kli2.jpeg"
 		},
-		"maintenance": false,
+		"maintenance": true,
 		"techstack": ["EditorJS CMS", "ReactJS", "Redis", "MongoDB", "CI/CD"]
 	}, {
 		"title": "Resume Score Analyzer",
