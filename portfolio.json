@@ -57,7 +57,7 @@
 			"light": "https://i.imgur.com/76XZ2tu.jpeg",
 			"dark": "https://i.imgur.com/76XZ2tu.jpeg"
 		},
-		"maintenance": false,
+		"maintenance": true,
 		"techstack": ["Django", "SQL"]
 	}]
 }
