@@ -66,8 +66,8 @@
 		"github": "https://github.com/KailasMahavarkar/unitywork_frontend",
 		"apidoc": "",
 		"imageurl": {
-			"light": "https://i.imgur.com/a/Ri4JXeT",
-			"dark": "https://i.imgur.com/a/Ri4JXeT"
+			"light": "https://i.imgur.com/CJ7tQKP.jpeg",
+			"dark": "https://i.imgur.com/CJ7tQKP.jpeg"
 		},
 		"maintenance": false,
 		"techstack": ["VueJS", "Express" ]
