@@ -70,6 +70,6 @@
 			"dark": "https://i.imgur.com/a/Ri4JXeT"
 		},
 		"maintenance": false,
-		"techstack": ["VueJS", "Express", ]
+		"techstack": ["VueJS", "Express" ]
 	}]
 }
