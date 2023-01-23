@@ -59,5 +59,17 @@
 		},
 		"maintenance": true,
 		"techstack": ["Django", "SQL"]
+	}, {
+		"title": "UnityWork",
+		"info": "UnityWork is a platform that connects freelancers and clients. We provide a platform for freelancers to showcase their skills and for clients to find the right freelancer for their project. uild your own PC",
+		"website": "https://unityfrontend.netlify.app",
+		"github": "https://github.com/KailasMahavarkar/unitywork_frontend",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://i.imgur.com/a/Ri4JXeT",
+			"dark": "https://i.imgur.com/a/Ri4JXeT"
+		},
+		"maintenance": false,
+		"techstack": ["VueJS", "Express", ]
 	}]
 }
