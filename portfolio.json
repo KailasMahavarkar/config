@@ -93,10 +93,10 @@
 		"github": "https://github.com/KailasMahavarkar/BuildYourPC",
 		"apidoc": "",
 		"imageurl": {
-			"light": "https://i.imgur.com/76XZ2tu.jpeg",
-			"dark": "https://i.imgur.com/76XZ2tu.jpeg"
+			"light": "https://raw.githubusercontent.com/KailasMahavarkar/BuildYourPC/master/thumbnail.jpg",
+			"dark": "https://raw.githubusercontent.com/KailasMahavarkar/BuildYourPC/master/thumbnail.jpg"
 		},
 		"maintenance": true,
-		"techstack": ["Django", "SQL"]
+		"techstack": ["Django", "SQL", "ReactJS"]
 	}]
 }
