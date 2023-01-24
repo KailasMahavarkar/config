@@ -12,6 +12,18 @@
 		"maintenance": false,
 		"techstack": ["NextJS", "Redis", "MongoDB", "AWS", "CI/CD", "JWT"]
 	}, {
+		"title": "UnityWork",
+		"info": "UnityWork is a platform that connects freelancers and clients. We provide a platform for freelancers to showcase their skills and for clients to find the right freelancer for their project. uild your own PC",
+		"website": "https://unityfrontend.netlify.app",
+		"github": "https://github.com/KailasMahavarkar/unitywork_frontend",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://i.imgur.com/CJ7tQKP.jpeg",
+			"dark": "https://i.imgur.com/CJ7tQKP.jpeg"
+		},
+		"maintenance": false,
+		"techstack": ["VueJS", "Express", "Fynd"]
+	}, {
 		"title": "DynoPictures.com",
 		"info": "Dynopictures.com is portfolio website made for Rahul Dyno an business enthusiast, it showcases his work and projects.",
 		"website": "https://dynopictures.com",
@@ -24,6 +36,19 @@
 		"techstack": ["NextJS", "ReactJS"],
 		"maintenance": false
 	}, {
+		"title": "ToolBox",
+		"info": "Toolbox - Its brings collection of web-tools which are used by programmers and general people very often.",
+		"website": "https://toolbox-vue.netlify.app",
+		"github": "https://github.com/KailasMahavarkar/toolbox",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg",
+			"dark": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg"
+		},
+
+		"maintenance": false,
+		"techstack": ["VueJS", "Fynd"]
+	}, {
 		"title": "Anandpal",
 		"info": "Ecommerce + Blogging App made for motivational speaker & doctor Mr Anand & Mrs Pallavi",
 		"website": "https://orkait-anandpal.netlify.com",
@@ -35,6 +60,19 @@
 		},
 		"maintenance": true,
 		"techstack": ["EditorJS CMS", "ReactJS", "Redis", "MongoDB", "CI/CD"]
+	}, {
+		"title": "Earth Animation",
+		"info": "It is a slideshow with cool animations that shows info about earth for kids, It is a html+css website with very little js",
+		"website": "https://buildyourpc.netlify.com",
+		"github": "https://github.com/KailasMahavarkar/BuildYourPC",
+		"apidoc": "",
+		"imageurl": {
+			"light": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg",
+			"dark": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg"
+		},
+		"maintenance": false,
+		"techstack": ["Html+CSS", "fynd"]
+
 	}, {
 		"title": "Resume Score Analyzer",
 		"info": "Scan any IT resume and rank it (KNN + SVM + XGBOOST)",
@@ -50,7 +88,7 @@
 	}, {
 		"title": "BuildYourPC",
 		"info": "Build your own PC is a webapp aims to reduce the time spent on building a PC, it provides you with a list of components and you can build your own PC",
-		"website": "https://buildyourpc.netlify.com",
+		"website": "https://github.com/KailasMahavarkar/BuildYourPC",
 		"github": "https://github.com/KailasMahavarkar/BuildYourPC",
 		"apidoc": "",
 		"imageurl": {
@@ -59,30 +97,5 @@
 		},
 		"maintenance": true,
 		"techstack": ["Django", "SQL"]
-	}, {
-		"title": "UnityWork",
-		"info": "UnityWork is a platform that connects freelancers and clients. We provide a platform for freelancers to showcase their skills and for clients to find the right freelancer for their project. uild your own PC",
-		"website": "https://unityfrontend.netlify.app",
-		"github": "https://github.com/KailasMahavarkar/unitywork_frontend",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://i.imgur.com/CJ7tQKP.jpeg",
-			"dark": "https://i.imgur.com/CJ7tQKP.jpeg"
-		},
-		"maintenance": false,
-		"techstack": ["VueJS", "Express", "Fynd"]
-	},  {
-		"title": "ToolBox",
-		"info": "Toolbox - Its brings collection of web-tools which are used by programmers and general people very often.",
-		"website": "https://toolbox-vue.netlify.app",
-		"github": "https://github.com/KailasMahavarkar/toolbox",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg",
-			"dark": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg"
-		},
-		
-		"maintenance": false,
-		"techstack": ["VueJS", "Fynd"]
 	}]
 }
