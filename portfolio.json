@@ -11,7 +11,8 @@
 		},
 		"maintenance": false,
 		"techstack": ["NextJS", "Redis", "MongoDB", "AWS", "CI/CD", "JWT"]
-	}, {
+	},
+		     {
 		"title": "UnityWork",
 		"info": "UnityWork is a platform that connects freelancers and clients. We provide a platform for freelancers to showcase their skills and for clients to find the right freelancer for their project. uild your own PC",
 		"website": "https://unityfrontend.netlify.app",
