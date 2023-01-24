@@ -63,8 +63,8 @@
 	}, {
 		"title": "Earth Animation",
 		"info": "It is a slideshow with cool animations that shows info about earth for kids, It is a html+css website with very little js",
-		"website": "https://buildyourpc.netlify.com",
-		"github": "https://github.com/KailasMahavarkar/BuildYourPC",
+		"website": "https://earthstory.netlify.app",
+		"github": "https://github.com/KailasMahavarkar/earth_storybook",
 		"apidoc": "",
 		"imageurl": {
 			"light": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg",
