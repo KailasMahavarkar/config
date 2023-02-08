@@ -71,7 +71,7 @@
 			"light": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg",
 			"dark": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg"
 		},
-		"maintenance": false,
+		"maintenance": true,
 		"techstack": ["Html+CSS", "fynd"]
 
 	}, {
