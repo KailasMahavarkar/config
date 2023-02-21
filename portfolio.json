@@ -1,8 +1,8 @@
 {
 	"projects": [{
-		"title": "Pastekey.io",
-		"info": "Pastekey.io is a web application that allows you to paste text and save it to a database. All private paste are encrypted by AES-256 encryption, It doesn't store your password or even your password hash in database.",
-		"website": "https://pastekey.io",
+		"title": "Pastekey",
+		"info": "Pastekey is a web application that allows you to paste text and save it to a database. All private paste are encrypted by AES-256 encryption, It doesn't store your password or even your password hash in database.",
+		"website": "https://pastekey.netlify.app",
 		"github": "",
 		"apidoc": "",
 		"imageurl": {
@@ -15,7 +15,7 @@
 		     {
 		"title": "UnityWork",
 		"info": "UnityWork is a platform that connects freelancers and clients. We provide a platform for freelancers to showcase their skills and for clients to find the right freelancer for their project. uild your own PC",
-		"website": "https://unityfrontend.netlify.app",
+		"website": "https://unitywork.netlify.app",
 		"github": "https://github.com/KailasMahavarkar/unitywork_frontend",
 		"apidoc": "",
 		"imageurl": {
