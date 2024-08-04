@@ -25,8 +25,8 @@
 		"maintenance": false,
 		"techstack": ["VueJS", "Express", "Fynd"]
 	}, {
-		"title": "DynoPictures.com",
-		"info": "Dynopictures.com is portfolio website made for Rahul Dyno an business enthusiast, it showcases his work and projects.",
+		"title": "DynoPictures",
+		"info": "Dynopictures is portfolio website made for Rahul Dyno an business enthusiast, it showcases his work and projects.",
 		"website": "https://dynopictures.netlify.app",
 		"github": "http://github.com/KailasMahavarkar/dynopictures",
 		"apidoc": "",
