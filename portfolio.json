@@ -27,7 +27,7 @@
 	}, {
 		"title": "DynoPictures.com",
 		"info": "Dynopictures.com is portfolio website made for Rahul Dyno an business enthusiast, it showcases his work and projects.",
-		"website": "https://dynopictures.com",
+		"website": "https://dynopictures.netlify.app",
 		"github": "http://github.com/KailasMahavarkar/",
 		"apidoc": "",
 		"imageurl": {
