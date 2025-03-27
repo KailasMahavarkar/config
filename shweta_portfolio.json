@@ -3,12 +3,12 @@
         {
             "title": "Chatify",
             "info": "Chatify is a web chat application featuring real-time communication with one-to-one and group chat functionality. It includes authentication, authorization for group admins, and uses Cloudinary for image storage.",
-            "website": "",
-            "github": "",
+            "website": "https://chatify-app-zeta.vercel.app/auth/login",
+            "github": "https://github.com/shweta27-alt/Chatify",
             "apidoc": "",
             "imageurl": {
-                "light": "",
-                "dark": ""
+                "light": "https://i.imgur.com/8E1MMjn.jpeg",
+                "dark": "https://i.imgur.com/8E1MMjn.jpeg"
             },
             "maintenance": false,
             "techstack": [
@@ -24,12 +24,12 @@
         {
             "title": "NetflixGPT",
             "info": "NetflixGPT is a Netflix clone with integrated GPT search capabilities for faster search results and multi-language support. Deployed on Firebase, it offers enhanced scalability for a large user base.",
-            "website": "",
-            "github": "",
+            "website": "https://netflix-gpt-omega-virid.vercel.app/",
+            "github": "https://github.com/shweta27-alt/NetflixGPT",
             "apidoc": "",
             "imageurl": {
-                "light": "",
-                "dark": ""
+                "light": "https://i.imgur.com/4c3xfVr.jpeg",
+                "dark": "https://i.imgur.com/4c3xfVr.jpeg"
             },
             "maintenance": false,
             "techstack": [
@@ -41,40 +41,19 @@
             ]
         },
         {
-            "title": "URL Shortener",
-            "info": "The URL Shortener compresses lengthy URLs into concise, memorable links. It includes authentication, authorization, custom short URLs, and link expiration/deactivation features.",
-            "website": "",
-            "github": "",
+            "title": "ToolBox",
+            "info": "Toolbox - Its brings collection of web-tools which are used by programmers and general people very often.",
+            "website": "https://toolbox-vue.netlify.app",
+            "github": "https://github.com/shweta27-alt/toolbox",
             "apidoc": "",
             "imageurl": {
-                "light": "",
-                "dark": ""
+                "light": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg",
+                "dark": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg"
             },
             "maintenance": false,
             "techstack": [
-                "HTML",
-                "CSS",
-                "React.js",
-                "Express",
-                "MongoDB"
-            ]
-        },
-        {
-            "title": "Portfolio Website",
-            "info": "A personal portfolio website showcasing projects, skills, and contact information.",
-            "website": "",
-            "github": "",
-            "apidoc": "",
-            "imageurl": {
-                "light": "",
-                "dark": ""
-            },
-            "maintenance": false,
-            "techstack": [
-                "HTML",
-                "CSS",
-                "React",
-                "Tailwind CSS"
+                "VueJS",
+                "Fynd"
             ]
         }
     ]
