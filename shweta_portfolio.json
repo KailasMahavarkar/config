@@ -1,0 +1,81 @@
+{
+    "projects": [
+        {
+            "title": "Chatify",
+            "info": "Chatify is a web chat application featuring real-time communication with one-to-one and group chat functionality. It includes authentication, authorization for group admins, and uses Cloudinary for image storage.",
+            "website": "",
+            "github": "",
+            "apidoc": "",
+            "imageurl": {
+                "light": "",
+                "dark": ""
+            },
+            "maintenance": false,
+            "techstack": [
+                "HTML",
+                "CSS",
+                "React",
+                "Node.js",
+                "MongoDB",
+                "Socket.io",
+                "Passport.js"
+            ]
+        },
+        {
+            "title": "NetflixGPT",
+            "info": "NetflixGPT is a Netflix clone with integrated GPT search capabilities for faster search results and multi-language support. Deployed on Firebase, it offers enhanced scalability for a large user base.",
+            "website": "",
+            "github": "",
+            "apidoc": "",
+            "imageurl": {
+                "light": "",
+                "dark": ""
+            },
+            "maintenance": false,
+            "techstack": [
+                "HTML",
+                "CSS",
+                "Firebase",
+                "Tailwind CSS",
+                "Redux"
+            ]
+        },
+        {
+            "title": "URL Shortener",
+            "info": "The URL Shortener compresses lengthy URLs into concise, memorable links. It includes authentication, authorization, custom short URLs, and link expiration/deactivation features.",
+            "website": "",
+            "github": "",
+            "apidoc": "",
+            "imageurl": {
+                "light": "",
+                "dark": ""
+            },
+            "maintenance": false,
+            "techstack": [
+                "HTML",
+                "CSS",
+                "React.js",
+                "Express",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "Portfolio Website",
+            "info": "A personal portfolio website showcasing projects, skills, and contact information.",
+            "website": "",
+            "github": "",
+            "apidoc": "",
+            "imageurl": {
+                "light": "",
+                "dark": ""
+            },
+            "maintenance": false,
+            "techstack": [
+                "HTML",
+                "CSS",
+                "React",
+                "Tailwind CSS"
+            ]
+        }
+    ]
+}
