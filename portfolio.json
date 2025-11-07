@@ -1,102 +1,203 @@
 {
-	"projects": [{
-		"title": "Pastekey",
-		"info": "Pastekey is a web application that allows you to paste text and save it to a database. All private paste are encrypted by AES-256 encryption, It doesn't store your password or even your password hash in database.",
-		"website": "https://pastekey.netlify.app",
-		"github": "",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://i.imgur.com/FYjmYoy.jpeg",
-			"dark": "https://i.imgur.com/EChbKi1.jpeg"
-		},
-		"maintenance": false,
-		"techstack": ["NextJS", "Redis", "MongoDB", "AWS", "CI/CD", "JWT"]
-	},
-		     {
-		"title": "UnityWork",
-		"info": "UnityWork is a platform that connects freelancers and clients. We provide a platform for freelancers to showcase their skills and for clients to find the right freelancer for their project. uild your own PC",
-		"website": "https://unitywork.netlify.app",
-		"github": "https://github.com/KailasMahavarkar/unitywork_frontend",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://i.imgur.com/CJ7tQKP.jpeg",
-			"dark": "https://i.imgur.com/CJ7tQKP.jpeg"
-		},
-		"maintenance": false,
-		"techstack": ["VueJS", "Express", "Fynd"]
-	}, {
-		"title": "DynoPictures",
-		"info": "Dynopictures is portfolio website made for Rahul Dyno an business enthusiast, it showcases his work and projects.",
-		"website": "https://dynopictures.netlify.app",
-		"github": "http://github.com/KailasMahavarkar/dynopictures",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://i.imgur.com/HPjiNIk.jpeg",
-			"dark": "https://i.imgur.com/HPjiNIk.jpeg"
-		},
-		"techstack": ["NextJS", "ReactJS", "Scss"],
-		"maintenance": false
-	}, {
-		"title": "ToolBox",
-		"info": "Toolbox - Its brings collection of web-tools which are used by programmers and general people very often.",
-		"website": "https://toolbox-vue.netlify.app",
-		"github": "https://github.com/KailasMahavarkar/toolbox",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg",
-			"dark": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg"
-		},
-
-		"maintenance": false,
-		"techstack": ["VueJS", "Fynd"]
-	}, {
-		"title": "Anandpal",
-		"info": "Ecommerce + Blogging App made for motivational speaker & doctor Mr Anand & Mrs Pallavi",
-		"website": "https://orkait-anandpal.netlify.com",
-		"github": "http://github.com/KailasMahavarkar/",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://i.imgur.com/vK8kli2.jpeg",
-			"dark": "https://i.imgur.com/vK8kli2.jpeg"
-		},
-		"maintenance": true,
-		"techstack": ["EditorJS CMS", "ReactJS", "Redis", "MongoDB", "CI/CD"]
-	}, {
-		"title": "Earth Animation",
-		"info": "It is a slideshow with cool animations that shows info about earth for kids, It is a html+css website with very little js",
-		"website": "https://earthstory.netlify.app",
-		"github": "https://github.com/KailasMahavarkar/earth_storybook",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg",
-			"dark": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg"
-		},
-		"maintenance": true,
-		"techstack": ["Html+CSS", "fynd"]
-
-	}, {
-		"title": "Resume Score Analyzer",
-		"info": "Scan any IT resume and rank it (KNN + SVM + XGBOOST)",
-		"website": "https://orka-resumescanner.netlify.com",
-		"github": "https://github.com/KailasMahavarkar/ResumeScannerML",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://i.imgur.com/76XZ2tu.jpeg",
-			"dark": "https://i.imgur.com/76XZ2tu.jpeg"
-		},
-		"maintenance": true,
-		"techstack": ["Machine Learning"]
-	}, {
-		"title": "BuildYourPC",
-		"info": "Build your own PC is a webapp aims to reduce the time spent on building a PC, it provides you with a list of components and you can build your own PC",
-		"website": "https://github.com/KailasMahavarkar/BuildYourPC",
-		"github": "https://github.com/KailasMahavarkar/BuildYourPC",
-		"apidoc": "",
-		"imageurl": {
-			"light": "https://raw.githubusercontent.com/KailasMahavarkar/BuildYourPC/master/thumbnail.jpg",
-			"dark": "https://raw.githubusercontent.com/KailasMahavarkar/BuildYourPC/master/thumbnail.jpg"
-		},
-		"maintenance": true,
-		"techstack": ["Django", "SQL", "ReactJS"]
-	}]
+    "projects": [
+        {
+            "title": "Pastekey",
+            "info": "Pastekey is a web application that allows you to paste text and save it to a database. All private paste are encrypted by AES-256 encryption, It doesn't store your password or even your password hash in database.",
+            "website": "https://pastekey.netlify.app",
+            "github": "",
+            "apidoc": "",
+            "imageurl": {
+                "light": "https://i.imgur.com/FYjmYoy.jpeg",
+                "dark": "https://i.imgur.com/EChbKi1.jpeg"
+            },
+            "maintenance": false,
+            "techstack": [
+                "NextJS",
+                "Redis",
+                "MongoDB",
+                "AWS",
+                "CI/CD",
+                "JWT"
+            ]
+        },
+        {
+            "title": "UnityWork",
+            "info": "UnityWork is a platform that connects freelancers and clients. We provide a platform for freelancers to showcase their skills and for clients to find the right freelancer for their project. uild your own PC",
+            "website": "https://unitywork.netlify.app",
+            "github": "https://github.com/KailasMahavarkar/unitywork_frontend",
+            "apidoc": "",
+            "imageurl": {
+                "light": "https://i.imgur.com/CJ7tQKP.jpeg",
+                "dark": "https://i.imgur.com/CJ7tQKP.jpeg"
+            },
+            "maintenance": false,
+            "techstack": [
+                "VueJS",
+                "Express",
+                "Fynd"
+            ]
+        },
+        {
+            "title": "DynoPictures",
+            "info": "Dynopictures is portfolio website made for Rahul Dyno an business enthusiast, it showcases his work and projects.",
+            "website": "https://dynopictures.netlify.app",
+            "github": "http://github.com/KailasMahavarkar/dynopictures",
+            "apidoc": "",
+            "imageurl": {
+                "light": "https://i.imgur.com/HPjiNIk.jpeg",
+                "dark": "https://i.imgur.com/HPjiNIk.jpeg"
+            },
+            "techstack": [
+                "NextJS",
+                "ReactJS",
+                "Scss"
+            ],
+            "maintenance": false
+        },
+        {
+            "title": "ToolBox",
+            "info": "Toolbox - Its brings collection of web-tools which are used by programmers and general people very often.",
+            "website": "https://toolbox-vue.netlify.app",
+            "github": "https://github.com/KailasMahavarkar/toolbox",
+            "apidoc": "",
+            "imageurl": {
+                "light": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg",
+                "dark": "https://raw.githubusercontent.com/KailasMahavarkar/toolbox/master/thumbnail.jpg"
+            },
+            "maintenance": false,
+            "techstack": [
+                "VueJS",
+                "Fynd"
+            ]
+        },
+        {
+            "title": "Anandpal",
+            "info": "Ecommerce + Blogging App made for motivational speaker & doctor Mr Anand & Mrs Pallavi",
+            "website": "https://orkait-anandpal.netlify.com",
+            "github": "http://github.com/KailasMahavarkar/",
+            "apidoc": "",
+            "imageurl": {
+                "light": "https://i.imgur.com/vK8kli2.jpeg",
+                "dark": "https://i.imgur.com/vK8kli2.jpeg"
+            },
+            "maintenance": true,
+            "techstack": [
+                "EditorJS CMS",
+                "ReactJS",
+                "Redis",
+                "MongoDB",
+                "CI/CD"
+            ]
+        },
+        {
+            "title": "Earth Animation",
+            "info": "It is a slideshow with cool animations that shows info about earth for kids, It is a html+css website with very little js",
+            "website": "https://earthstory.netlify.app",
+            "github": "https://github.com/KailasMahavarkar/earth_storybook",
+            "apidoc": "",
+            "imageurl": {
+                "light": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg",
+                "dark": "https://raw.githubusercontent.com/KailasMahavarkar/earth_storybook/master/thumbnail.jpg"
+            },
+            "maintenance": true,
+            "techstack": [
+                "Html+CSS",
+                "fynd"
+            ]
+        },
+        {
+            "title": "Resume Score Analyzer",
+            "info": "Scan any IT resume and rank it (KNN + SVM + XGBOOST)",
+            "website": "https://orka-resumescanner.netlify.com",
+            "github": "https://github.com/KailasMahavarkar/ResumeScannerML",
+            "apidoc": "",
+            "imageurl": {
+                "light": "https://i.imgur.com/76XZ2tu.jpeg",
+                "dark": "https://i.imgur.com/76XZ2tu.jpeg"
+            },
+            "maintenance": true,
+            "techstack": [
+                "Machine Learning"
+            ]
+        },
+        {
+            "title": "BuildYourPC",
+            "info": "Build your own PC is a webapp aims to reduce the time spent on building a PC, it provides you with a list of components and you can build your own PC",
+            "website": "https://github.com/KailasMahavarkar/BuildYourPC",
+            "github": "https://github.com/KailasMahavarkar/BuildYourPC",
+            "apidoc": "",
+            "imageurl": {
+                "light": "https://raw.githubusercontent.com/KailasMahavarkar/BuildYourPC/master/thumbnail.jpg",
+                "dark": "https://raw.githubusercontent.com/KailasMahavarkar/BuildYourPC/master/thumbnail.jpg"
+            },
+            "maintenance": true,
+            "techstack": [
+                "Django",
+                "SQL",
+                "ReactJS"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "timeframe": "June 2019 - Dec 2021",
+            "role": "Freelance Teacher",
+            "company": "Fiverr.com",
+            "companyUrl": "https://www.fiverr.com/braincity?up_rollout=true",
+            "linkContent": "Fiverr",
+            "linkUrl": "https://www.fiverr.com/braincity?up_rollout=true",
+            "postLinkContent": " is a freelance platform",
+            "content": "During pandemic times, I was able to work as a freelancer and as a teacher to teach young people about computer programming and networking."
+        },
+        {
+            "timeframe": "June 2021 - Feb 2022",
+            "role": "Freelance Developer",
+            "company": "Dynopictures",
+            "companyUrl": "https://dynopictures.netlify.com",
+            "linkContent": "Dynopictures",
+            "linkUrl": "https://dynopictures.netlify.com",
+            "postLinkContent": " is a local business",
+            "content": "During this time, I maintained multiple websites and helped businesses establish their online presence. I have also worked on various freelance projects."
+        },
+        {
+            "timeframe": "Dec 2021 - Feb 2022",
+            "role": "SDE Intern @Jhaiho",
+            "company": "Jhaiho PVT Ltd",
+            "companyUrl": "https://jhaiho.com",
+            "linkContent": "Jhaiho",
+            "linkUrl": "https://jhaiho.com",
+            "postLinkContent": " is a one-stop destination for everything related to tattoos",
+            "content": "As an intern, I was tasked with developing a new version of their API. It was a good opportunity to learn GoLang, GRPC, Protobuf, and microservice architecture."
+        },
+        {
+            "timeframe": "August 2022 - November 2022",
+            "role": "Trainee/Intern@Fynd",
+            "company": "Fynd.com",
+            "companyUrl": "https://fynd.com",
+            "linkContent": "Fynd",
+            "linkUrl": "https://fynd.com",
+            "postLinkContent": " is a fashion e-commerce platform",
+            "content": "I learned MEVN stack and worked on their internal tools.\n            It was semi-intern & semi-training program where I learned about the industry standards and best practices."
+        },
+        {
+            "timeframe": "April 2023 - Jan 2025",
+            "role": "Software Development Engineer (frontend)",
+            "company": "Carwale",
+            "companyUrl": "https://www.carwale.com",
+            "linkContent": "Carwale",
+            "linkUrl": "https://www.carwale.com",
+            "postLinkContent": " is top leading automotive portal in India",
+            "content": "\n            At CarWale, my role was research-driven, where I focused mainly on frontend performance enhancements. \n            I maintained their oxygen design system, and their frontend library, Implemented micro frontend architecture.\n            worked on carwale android app and worked on their internal tools like Ads Manager, Analytics, etc.\n            "
+        },
+        {
+            "timeframe": "Jan 2025 - Present",
+            "role": "SDE - 1 (full stack)",
+            "company": "PineLabs(SETU)",
+            "companyUrl": "https://www.setu.co",
+            "linkContent": "PineLabs(SETU)",
+            "linkUrl": "https://www.setu.co",
+            "postLinkContent": " is a leading fintech company",
+            "content": "\n            At PineLabs(SETU), my role was fullstack-driven, where I developed and maintained ICICI Bank's IFinance Section WebApp.\n            Where i worked on React, Typescript, Python, Postgres, Grafana and AWS. I also implemented dashbaord for data-insights team to show analytics to end-users.\n            "
+        }
+    ]
 }
